@@ -19,4 +19,5 @@ streamlit.dataframe(fruits_to_show)
 
 import requests
 
-import.snowflake.connector
+
+
